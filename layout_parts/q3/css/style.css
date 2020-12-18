@@ -25,11 +25,11 @@
   vertical-align: middle;
 }
 
-.q3_table tr:nth-child(2n+1){
+.q3_table tbody tr:nth-child(2n){
   background-color: #ecf1f2;
 }
 
-.q3_table tr:last-child{
+.q3_table tbody tr:last-child{
   border-top: dashed #000 2px;
 }
 /* 回答はここに書いてね */
